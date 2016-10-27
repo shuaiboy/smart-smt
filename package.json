@@ -1,0 +1,36 @@
+{
+  "name": "smart-smt",
+  "version": "1.0.0",
+  "description": "The react try their project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaiboy/smart-smt.git"
+  },
+  "keywords": [
+    "webapck",
+    "react",
+    "gulp"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaiboy/smart-smt/issues"
+  },
+  "homepage": "https://github.com/shuaiboy/smart-smt#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.6",
+    "babel-preset-react": "^6.16.0",
+    "gulp": "^3.9.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-hot-loader": "^1.3.0",
+    "react-loader": "^2.4.0",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
